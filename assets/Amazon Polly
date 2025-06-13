@@ -1,0 +1,8 @@
+What is Amazon Polly?
+Amazon Polly is a service provided by AWS that enables developers to generate human-like speech from text.
+
+  1. Text-to-Speech Conversion: Amazon Polly turns written text into spoken words. So, you can type something, and Amazon Polly will say it out loud in a natural-sounding voice.
+  2. Realistic Speech: The speech created by Amazon Polly sounds like a real person speaking, not robotic or unnatural. It's great for making computerized voices sound more human-like.
+  3. Options to Customize: You can change how the speech sounds. For example, you can make it faster or slower, adjust the pitch (high or low), and even pick different accents or languages.
+  4. Supports Many Languages and Voices: Amazon Polly can speak in lots of different languages and with different voices. Whether you want a man or a woman, or someone with a British or American accent, you have options.
+  5. SSML Support for Control: You can use special codes called SSML to control exactly how the speech sounds. This allows for things like emphasizing certain words, adding pauses, or changing the tone of voice.
